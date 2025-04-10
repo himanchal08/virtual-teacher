@@ -23,12 +23,12 @@ An interactive web application that simulates a virtual classroom environment. B
    git clone https://github.com/himanchal08/virtual-teacher.git
    cd virtual-teacher
 2. Install dependencies:
-  ```bash
-  npm install
-```
+     ```bash
+     npm install
+   ```
 3. Run the app locally:
-```bash
-npm start
+   ```bash
+   npm start
 
 
 
